@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Learning Development
+* Listing to songs
+  * Halsey
+  * Eminem
+  * Queens
+  * Charlie Puth
